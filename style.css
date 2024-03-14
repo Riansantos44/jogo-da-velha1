@@ -1,0 +1,31 @@
+@font-face {
+                      font-family: font1;
+                      src: url(Galaxia.ttf);
+}
+
+body{
+                      background: url(https://marketplace.canva.com/EAFYIWPCudg/1/0/1600w/canva-papel-de-parede-para-computador-astronauta-gal%C3%A1xia-preto-e-branco-lKp1cXK1ybY.jpg);
+                      background-size: cover;
+                      
+                  }
+                  h1{
+                      font-size: 60px;
+                      color: rgb(255, 255, 255);
+                      text-align: center;
+                      background: url();
+                      font-family: cursive;
+                  
+                  }
+                  footer{
+                   
+                      margin: 20px;
+                      font-size: 25px;
+                      color: white;
+                      text-align: center;
+                  
+                  }
+                  span{
+                      font-family: font1;
+                      font-size: 100px;
+                      color: blue;
+                  }
